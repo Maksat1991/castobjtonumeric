@@ -1,0 +1,31 @@
+target/
+.gradle/
+!.mvn/wrapper/maven-wrapper.jar
+
+### STS ###
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings
+.springBeans
+
+### IntelliJ IDEA ###
+.idea
+*.iws
+*.iml
+*.ipr
+
+### NetBeans ###
+nbproject/private/
+build/
+out/
+nbbuild/
+dist/
+nbdist/
+.nb-gradle/
+MapLoadClientSccpStack_*.xml
+TCAP_*.xml
+Client_*.xml
+logs
+*.xlsx
